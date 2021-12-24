@@ -1,0 +1,9 @@
+#ninja-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ninja-box img {
+    margin: 3px;
+}
